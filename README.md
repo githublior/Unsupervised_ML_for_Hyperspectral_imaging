@@ -11,11 +11,6 @@ with
 
 
 for preprocessing the data before applying cell segmentation , use preprocess_tissue(data, whitening) , whitening being a boolean .
-
-
-
-
-
 the repository doesn’t contain the tissue I worked on, as well as the manually labelled ground truth, but they are available on a USB key, whenever requested to me .
 
 
